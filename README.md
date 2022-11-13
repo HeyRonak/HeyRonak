@@ -1,4 +1,4 @@
-![MasterHead](https://pbs.twimg.com/profile_banners/3024111438/1662808001/1080x360)
+![Header](./github-header-image.png)
 
 [![](https://visitcount.itsvg.in/api?id=ronakparmar533&icon=0&color=3)](https://visitcount.itsvg.in)
 
